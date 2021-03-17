@@ -1,0 +1,10 @@
+{
+    "name": "symfony/psr7-pack",
+    "type": "symfony-pack",
+    "license": "MIT",
+    "description": "A pack for bridging PSR-7/17",
+    "require": {
+        "nyholm/psr7": "*",
+        "symfony/psr-http-message-bridge": "*"
+    }
+}
