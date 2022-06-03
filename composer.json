@@ -5,7 +5,6 @@
     "description": "A pack for bridging PSR-7/17",
     "require": {
         "nyholm/psr7": "*",
-        "symfony/psr7-meta": "*",
         "symfony/psr-http-message-bridge": "*"
     }
 }
