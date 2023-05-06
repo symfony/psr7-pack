@@ -4,7 +4,8 @@
     "license": "MIT",
     "description": "A pack for bridging PSR-7/17",
     "require": {
-        "nyholm/psr7": "*",
+        "php-http/discovery": "^1.18",
+        "psr/http-factory-implementation": "*",
         "symfony/psr-http-message-bridge": "*"
     }
 }
